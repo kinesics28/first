@@ -5,6 +5,6 @@
     
   </head>
   <body>
-    <a href="assignment.html">Assignment page submitted to Colleen</a>
+    <a href="assignment.html">Assignment page submitted t0o Colleen</a>
   </body>
 </html>
