@@ -74,7 +74,9 @@ body{
   td{
     background-color: rgba(0, 197, 181, 0.13);
   }
-  
+td:hover{
+background-color: rgba(0, 197, 181, 0.25);
+}
   th, td{
     height: 30px;
     text-align: center;
