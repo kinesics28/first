@@ -4,7 +4,7 @@ This page is created by ME and all the rights belong to me!
 For any issues see [Disclaimer](https://kinesics28.github.io/upload/disclaimer)
 
 ### Here are some of my works
-# [*Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html)
+# [*- Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html)
 Coursera final assingment for completion of CSS - University of Michigan 
 submitted to Colleen Van Lent
 
