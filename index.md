@@ -8,6 +8,7 @@ For any issues see [Disclaimer](https://kinesics28.github.io/upload/disclaimer)
 Coursera final assingment for completion of CSS - University of Michigan 
 submitted to Colleen Van Lent
 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
