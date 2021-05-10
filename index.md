@@ -1,10 +1,12 @@
 ## Welcome to Kinesics
 
-You can use the [editor on GitHub](https://github.com/kinesics28/second/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is created by ME and all the rights belong to me!
+For any issues see [Disclaimer](https://kinesics28.github.io/upload/disclaimer)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Here are some of my works
+# [*Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html)
+Coursera final assingment for completion of CSS - University of Michigan 
+submitted to Colleen Van Lent
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
