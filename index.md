@@ -1,9 +1,9 @@
 ## Welcome to KINESICS
 
 This page is created by Sanchit Patidar and all the rights belong to him!
-For any issues or queries drop me a message on [Linkdin](https://www.linkedin.com/in/sanchit-patidar-8608411a0/)
+For any issues or queries drop me a message on [Linkedin](https://www.linkedin.com/in/sanchit-patidar-8608411a0/)
 
-[Disclaimer](https://kinesics28.github.io/upload/disclaimer)
+[![Disclaimer](https://kinesics28.github.io/upload/disclaimer)
 
 ### Here are some of my works
 # [*- Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html)
