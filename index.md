@@ -1,7 +1,9 @@
-## Welcome to Kinesics
+## Welcome to KINESICS
 
-This page is created by ME and all the rights belong to me!
-For any issues see [Disclaimer](https://kinesics28.github.io/upload/disclaimer)
+This page is created by Sanchit Patidar and all the rights belong to him!
+For any issues or queries drop me a message on [Linkdin](https://www.linkedin.com/in/sanchit-patidar-8608411a0/)
+
+[Disclaimer](https://kinesics28.github.io/upload/disclaimer)
 
 ### Here are some of my works
 # [*- Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html)
@@ -10,7 +12,9 @@ submitted to Colleen Van Lent
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [*- Membership form*](https://kinesics28.000webhostapp.com/)
+A online hosted site for login and sign-up purpose connected to database which can be
+accessed from anywhere
 
 ```markdown
 Syntax highlighted code block
