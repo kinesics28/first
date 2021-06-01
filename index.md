@@ -2,7 +2,7 @@
 
 This page is created by Sanchit Patidar and all the rights belong to him!
 For any issues or queries drop me a message on [Linkedin](https://www.linkedin.com/in/sanchit-patidar-8608411a0/)
-For any issues or queries drop me a message on [![Linkedin](https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622544194~hmac=cfc0dddce20896450cd4aedb684ae26a)[https://www.linkedin.com/in/sanchit-patidar-8608411a0/]
+
 [Disclaimer](https://kinesics28.github.io/upload/disclaimer)
 
 ### Here are some of my works
