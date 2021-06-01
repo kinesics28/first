@@ -1,18 +1,18 @@
 ## Welcome to KINESICS
 
 This page is created by Sanchit Patidar and all the rights belong to him!
-For any issues or queries drop me a message on [Linkedin](https://www.linkedin.com/in/sanchit-patidar-8608411a0/)
+For any issues or queries drop me a message on [Linkedin](https://www.linkedin.com/in/sanchit-patidar-8608411a0/) :purple_heart:	
 
-[Disclaimer](https://kinesics28.github.io/upload/disclaimer)
+[Disclaimer](https://kinesics28.github.io/upload/disclaimer) :heavy_check_mark:
 
 ### Here are some of my works
-# [*- Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html)
+# [*- Coursera final assingment*](https://kinesics28.github.io/assignment/assignment.html) :link:
 Coursera final assingment for completion of CSS - University of Michigan 
 submitted to Colleen Van Lent
 
 
 
-# [*- Membership form*](https://kinesics28.000webhostapp.com/)
+# [*- Membership form*](https://kinesics28.000webhostapp.com/) :scroll:
 A online hosted site for login and sign-up purpose connected to database which can be
 accessed from anywhere
 
